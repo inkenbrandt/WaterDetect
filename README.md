@@ -80,7 +80,7 @@ Scikit-Image is only necessary to run Otsu threshold method.
 The test_dependencies.py can be used to check if all libraries are loading correctly. Simply run:
 
 
-## Instalation
+## Installation
 The easiest way to install waterdetect package is with `pip` command:<br>
 `pip install waterdetect`
 
